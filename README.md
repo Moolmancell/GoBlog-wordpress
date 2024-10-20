@@ -19,6 +19,7 @@ A blog Article
 
  - [Elementor](https://wordpress.org/plugins/the-post-grid/)
  - [Post Grid](https://github.com/matiassingers/awesome-readme)
+ - [Simply Static](https://simplystatic.com/)
 ## Theme
 
 ## [Rain Storm](https://wordpress.org/themes/rain-storm/)
