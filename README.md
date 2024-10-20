@@ -1,5 +1,5 @@
 
-# GoBlog - Wordpress Blog Website
+# GoBlog -  Wordpress Blog Website
 
 Blog website made using Wordpress.
  
@@ -17,9 +17,9 @@ A blog Article
 
 ## Plugins Used
 
-- Elementor (https://elementor.com/)
-- Post Grid (https://wordpress.org/plugins/the-post-grid/)
+ - [Elementor](https://wordpress.org/plugins/the-post-grid/)
+ - [Post Grid](https://github.com/matiassingers/awesome-readme)
 ## Theme
 
-### Rain Storm (https://wordpress.org/themes/rain-storm/)
-by kantipurthemes (https://wordpress.org/themes/author/kantipurthemes/)
+## [Rain Storm](https://wordpress.org/themes/rain-storm/)
+by [kantipurthemes](https://wordpress.org/themes/author/kantipurthemes/)
