@@ -1,7 +1,7 @@
 
 # GoBlog -  Wordpress Blog Website
 
-Blog website made using Wordpress.
+Blog website made using Wordpress. Built with the Elementor Plugin and generated to static website using Simply Static Plugin
  
 
 
